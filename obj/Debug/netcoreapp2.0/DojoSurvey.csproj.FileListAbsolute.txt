@@ -1,0 +1,11 @@
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.deps.json
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.runtimeconfig.json
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.runtimeconfig.dev.json
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.dll
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.pdb
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.csproj.CoreCompileInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.AssemblyInfoInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.AssemblyInfo.cs
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.dll
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.pdb
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.csprojAssemblyReference.cache

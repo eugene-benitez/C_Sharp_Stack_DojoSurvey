@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{1027B4EC-B6BC-4145-AE7B-AE1C5E45CF08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/_ViewImports.cshtml">
+    <Files>
+      <File FileName="Views/Shared/Index.cshtml" Line="17" Column="1" />
+      <File FileName="Views/_ViewImports.cshtml" Line="2" Column="12" />
+      <File FileName="Models/Users.cs" Line="19" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="15" Column="34" />
+      <File FileName="../../../../../../usr/local/share/dotnet/sdk/2.1.505/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.ObsoleteReferences.targets" Line="39" Column="1" />
+      <File FileName="Views/Shared/Result.cshtml" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DojoSurvey" expanded="True">
+            <Node name="DojoSurvey" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="_ViewImports.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DojoSurvey PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
